@@ -1,11 +1,12 @@
-### Describe your changes
-...
+## Description
+Please include a summary of the changes and related issue.
 
-### Issue ticket number and link
-...
+## Type of change
+- [ ] Bug fix
+- [ ] New feature
+- [ ] Breaking change
+- [ ] Documentation update
 
-### Checklist before requesting a review
-- [ ] I have performed a self-review of my code
-- [ ] If it is a core feature, I have added thorough tests
-- [ ] Do we need to implement analytics?
-- [ ] Will this be part of a product update? If yes, please write one phrase about this update
+## Checklist
+- [ ] Tests added/updated
+- [ ] Documentation updated
